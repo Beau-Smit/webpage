@@ -1,2 +1,3 @@
-# webpage
-Code for beausmit.com
+# Beau Smit
+
+Welcome to my website!
